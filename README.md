@@ -1,6 +1,5 @@
-# Greetings! I'm Rian 📊
-
-A Statistics student who loves exploring patterns in data, building predictive models, and turning complex numbers into actionable insights.
+# Hallo 👋🏻 I'm Rian 📊
+I have a great passion for exploring hidden patterns within data and enjoy discovering how numbers and information can be processed to generate meaningful and valuable insights.
 
 ---
 
