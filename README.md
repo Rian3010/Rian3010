@@ -1,16 +1,19 @@
-## Hi there 👋
+# Greetings! I'm Rian 📊
 
-<!--
-**Rian3010/Rian3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Statistics student who loves exploring patterns in data, building predictive models, and turning complex numbers into actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Areas of Interest
+- **Predictive Analytics:** Forecasting and time series analysis.
+- **Statistical Modeling:** Implementing advanced statistical methods for real-world data.
+- **Data Wrangling:** Cleaning and preprocessing messy datasets for analysis.
+
+### 🛠️ Toolbox
+- **Programming & Tools:** R (RStudio), Python
+- **Analytics & BI:** Power BI, Excel
+
+---
+
+### 🌐 Connect with Me
+- **LinkedIn:** [Hubungkan](https://www.linkedin.com/in/rahmat-ac)
