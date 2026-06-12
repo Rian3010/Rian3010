@@ -9,8 +9,9 @@ I have a great passion for exploring hidden patterns within data and enjoy disco
 - **Data Wrangling:** Cleaning and preprocessing messy datasets for analysis.
 
 ### 🛠️ Toolbox
-- **Programming & Tools:** R (RStudio), Python
-- **Analytics & BI:** Power BI, Excel
+- **Programming & Tools:** R (RStudio), Python, SPSS, Minitab, Microsoft Excel
+- **Analytics:** Time-Series Forecasting, Resampling, Predictive Modeling (Machine Learning), Regresi Linear
+- **Visualization:** Looker Studio
 
 ---
 
