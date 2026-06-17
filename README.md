@@ -17,3 +17,4 @@ I have a great passion for exploring hidden patterns within data and enjoy disco
 
 ### 🌐 Connect with Me
 - **LinkedIn:** [Hubungkan](https://www.linkedin.com/in/rahmat-ac)
+- **Portofolio:** [Lihat](https://porto-rahmat-andrian-cahyanto.my.canva.site/portofolio)
